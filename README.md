@@ -10,7 +10,7 @@ I am a Junior Fullstack Developer currently pursuing my degree in Computer Scien
 - 💻 **Frontend:** React, Redux Toolkit, TypeScript, Tailwind CSS, Framer Motion, HTML/CSS.
 - ⚙️ **Backend:** Node.js, Express, REST APIs, MongoDB, JWT/API Key Auth.
 - ⚡ **Performance:** Deep understanding of browser rendering, Offscreen Canvas pattern, and UI optimization.
-- 🤖 **AI-Driven:** Active user of Cursor, GitHub Copilot, and LLMs for prompt engineering and rapid development.
+- 🤖 **AI-Driven:** Active user of VS Code, GitHub Copilot, and LLMs for prompt engineering and rapid development.
 - 🤝 **Soft Skills:** Team leadership, clear communication, and business-oriented mindset.
 
 ---
