@@ -44,10 +44,5 @@ I am a Fullstack Developer with a background in Computer Science and B2B IT Sale
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Nikita Ishchenko](https://www.linkedin.com/in/nikita-ishchenko-004444338/)
+- **LinkedIn:** [Nikita Ishchenko](https://www.linkedin.com/in/nikita-ishchenko/)
 - **Email:** nikitaishchenko334@gmail.com
-
-<br/>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IshNekittt&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-</p>
