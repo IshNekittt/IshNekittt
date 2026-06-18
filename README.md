@@ -2,7 +2,7 @@
 
 ### Junior Fullstack Developer (React & Node.js) | AI-Assisted Coder
 
-I am a Fullstack Developer with a background in Computer Science and B2B IT Sales. This unique combination allows me to not only write clean, optimized code but also understand the core business logic and client needs behind every feature. I actively use modern AI tools to accelerate development, refactor code, and optimize performance.
+I am a Junior Fullstack Developer currently pursuing my degree in Computer Science. While my main focus is software engineering, I also have brief practical experience in sales and working with CRMs. This combination taught me a crucial lesson: applications aren't just lines of code, they are tools built to solve real business problems and improve client communication. My core stack includes React, Redux, Node.js, and Express, alongside a strong focus on UI performance optimization. I am a strong advocate for working smart. I actively use AI-assisted tools like Cursor and LLMs to accelerate development, refactor code, and generate logic efficiently. Open to new opportunities where I can contribute to scalable web applications and continue growing as a software engineer.
 
 ---
 
